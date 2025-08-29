@@ -1,11 +1,4 @@
-# Phase 3 CLI Project Template
-
-## Learning Goals
-
-- Discuss the basic directory structure of a CLI.
-- Outline the first steps in building a CLI.
-
-***
+# Phase 3 CLI Project
 
 ## Introduction
 
